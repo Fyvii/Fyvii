@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Fyvii. I am a frontend developer focusing on React! I dropped medicine in pursuit of frontend and design! When I'm not online, I'm probably bouldering or capturing film!
 - 👀 I’m interested in developing my fullstack abilities and contributing to open-source communities.
-- 🌱 I’m currently learning NodeJS, Java, and Python,
+- 🌱 I’m currently learning ReactNative, Java, and Python,
 - 📫 How to reach me ... Please feel free to contact me on _Nuur.dev@outlook.com_
